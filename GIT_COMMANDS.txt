@@ -1,0 +1,20 @@
+GitHub setup for Student ID 0112330463
+
+Repository name:
+quiz3-0112330463
+
+GitHub username:
+mdasifurrahman2330463
+
+Commands:
+
+1. git init
+2. git add .
+3. git commit -m "feat: add Book CRUD API and pytest tests"
+4. git branch -M main
+5. git remote add origin https://github.com/mdasifurrahman2330463/quiz3-0112330463.git
+6. git push -u origin main
+
+Required collaborators from the quiz:
+- rejwanahmed007
+- devmahbe

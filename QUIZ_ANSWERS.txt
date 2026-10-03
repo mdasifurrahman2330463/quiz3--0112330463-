@@ -1,0 +1,20 @@
+Quiz 3 submission notes
+
+Student ID: 0112330463
+GitHub username: mdasifurrahman2330463
+Repository: quiz3-0112330463
+
+POST example:
+{
+  "title": "Clean Code",
+  "author": "Robert Martin",
+  "price": 29.99
+}
+
+Expected POST status: 201
+Expected missing-book DELETE status: 404
+Required tests: test_create_book(), test_delete_book()
+Bonus tests: test_get_all_books(), test_update_book()
+
+Run:
+python -m pytest
